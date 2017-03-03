@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="/Users/gautamgrover/Documents/workspace/CompareResponse/GJK/jars to add/httpclient-4.2.5.jar"/>
+	<classpathentry kind="lib" path="/Users/gautamgrover/Documents/workspace/CompareResponse/GJK/jars to add/httpcore-4.2.3.jar"/>
+	<classpathentry kind="lib" path="/Users/gautamgrover/Documents/workspace/CompareResponse/GJK/jars to add/org-apache-commons-logging.jar"/>
+	<classpathentry kind="lib" path="/Users/gautamgrover/Documents/workspace/CompareResponse/GJK/jars to add/json-simple.jar"/>
+	<classpathentry kind="lib" path="/Users/gautamgrover/Documents/workspace/CompareResponse/GJK/jars to add/org.json.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="/Users/gautamgrover/Documents/workspace/CompareResponse/GJK/jars to add/xmlunit.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
